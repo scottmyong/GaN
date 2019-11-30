@@ -1,0 +1,11 @@
+%GaN newfile
+main{
+int a;
+int b;
+int sum;
+
+a=1;
+b=1;
+sum = a+ b;
+
+}
